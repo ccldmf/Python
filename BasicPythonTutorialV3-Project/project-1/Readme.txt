@@ -1,0 +1,1 @@
+在dos窗口下，到工程所在路径，输入：python markup.py <test_input.txt> test_output.html即可。
